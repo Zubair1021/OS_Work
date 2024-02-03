@@ -3,10 +3,8 @@
 <h3>Introduction of Ubuntu</h3>
 <p>Ubuntu is a widely-used open-source operating system built on Debian Linux. It's famous for being easy to use, stable, and having strong community support. Designed with user-friendliness in mind, Ubuntu is a great option for both newbies and seasoned users.</p>
 
-# Welcome to Operating Systems
-In this **Readme** file, I will guide you to how you can  use **Linux(Ubuntu)** operating system simultaneously with **Windows** operating system.
+<h3>Installation of Ubuntu</h3>
 
-![Logo](https://github.com/LPGangster/Operating-Systems/assets/156175348/0b245287-9390-4316-8abf-6bfe7e50123f)
 
 ## How to Download Ubuntu Setup
 
@@ -140,66 +138,9 @@ Now, your **VMware Workstation 17 Player** has been configured to be used in you
 
 ![Step_26](https://github.com/LPGangster/Operating-Systems/assets/156175348/15a783ac-4bf1-4ef4-b734-a91999152521)
 
-##  Getting started with Ubuntu
-
-Now, I will guide you to properly install **C\C++** compilers in your **Ubuntu** operating system.
-
-**1.** Click **Windows** key on keyboard and search **Terminal**.
-
-![Step_27](https://github.com/LPGangster/Operating-Systems/assets/156175348/831c2ebe-df1d-4d45-8f6a-ae5e374920be)
-
-**2.** You will get the pop-up windows shown below:
-
-![Step_28](https://github.com/LPGangster/Operating-Systems/assets/156175348/2b195241-c589-4f1a-8f17-3fc6d42dd283)
-
-**3.** Type **sudo apt-get install gcc** to install **C** language compiler.
-
-![Step_29](https://github.com/LPGangster/Operating-Systems/assets/156175348/bc352963-e7a4-4a8f-b406-954361a0ad65)
-
-**4.** Type **sudo apt-get install g++** to install C++ compiler.
-
-![Step_30](https://github.com/LPGangster/Operating-Systems/assets/156175348/587a63d9-7e50-4507-b27c-7de50ff43a94)
-
-**5.** If you want to install **Typora** on your **Ubuntu OS** you can type **sudo snap install typora**. Otherwise you can ignore this step.
-
-![Step_31](https://github.com/LPGangster/Operating-Systems/assets/156175348/a87feb43-44b2-422e-8050-ed5e085f3dea)
-
-Now, you have officially installed C/C++ compilers in your **Ubuntu OS**. Time to check if the compilers are successfully installed or not.
-
-**6.** You can use **echo** to create file of your desired format such as .txt, .c, .cpp e.t.c.
-
-![Step_32](https://github.com/LPGangster/Operating-Systems/assets/156175348/a5790058-a221-4aa5-8670-dc8530911f75)
-
-![Step_33](https://github.com/LPGangster/Operating-Systems/assets/156175348/f90f9964-b984-48bc-8cfa-9a4ce7a9e92d)
-
-**7.** You can use the code provided in **Test.c** and **Test.cpp** to test **C/C++** language compiler by clicking this [Link](https://github.com/LPGangster/Operating-Systems/tree/main/Lab_02/Demo_Codes "Test.c & Test.cpp").
-
-![Step_34](https://github.com/LPGangster/Operating-Systems/assets/156175348/87c51af3-28d6-4d5a-9ba8-0d0faeab8398)
-
-![Step_35](https://github.com/LPGangster/Operating-Systems/assets/156175348/54a1b7d4-57e7-4b3d-a1af-25ce1cb474ff)
-
-**8.** In order to run these code files we need to create an object file to execute the commands written in the program.
-
-![Step_36](https://github.com/LPGangster/Operating-Systems/assets/156175348/b3089f6f-6597-437a-9e2d-efc6d58e9e1a)
-
-**9.** We can use **gcc -o File_Name Test.c** and **g++ -o File_Name Test.cpp** to create object files for **C/C++** compilers.
-
-![Step_37](https://github.com/LPGangster/Operating-Systems/assets/156175348/af0d55aa-26bf-4b6d-a070-7e28304c9491)
-
-![Step_38](https://github.com/LPGangster/Operating-Systems/assets/156175348/79baa681-96cd-4c9b-aa97-1efeae8e67f0)
-
-**10.** In order to check **C/C++** compilers, we can use **./Object_File_Name** to execute the code in the files.
-
-![Step_39](https://github.com/LPGangster/Operating-Systems/assets/156175348/77a28b7e-cccf-45ef-9ed1-a7613ce0ef95)
 
 ### With these steps you have finally installed:
 
 **1.** VMware Workstation 17 Player
 
 **2.** Ubuntu Operating System
-
-**3.** C/C++ Compilers
-
-**4.** Typora
-
-
