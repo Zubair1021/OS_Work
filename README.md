@@ -141,3 +141,4 @@ Now, your **VMware Workstation 17 Player** has been configured to be used in you
 **1.** VMware Workstation 17 Player
 
 **2.** Ubuntu Operating System
+<p>For making readme for the installation of Ubuntu i get data from **Waleed Ahmed** GitHub profile</p>
