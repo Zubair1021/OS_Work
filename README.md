@@ -3,10 +3,7 @@
 <h3>Introduction of Ubuntu</h3>
 <p>Ubuntu is a widely-used open-source operating system built on Debian Linux. It's famous for being easy to use, stable, and having strong community support. Designed with user-friendliness in mind, Ubuntu is a great option for both newbies and seasoned users.</p>
 
-<h3>Installation of Ubuntu</h3>
-
-
-## How to Download Ubuntu Setup
+<h2>Installation of Ubuntu</h3>
 
 In order to download **Ubuntu** complete setup, I want you to carefully follow the set of steps given below:
 
